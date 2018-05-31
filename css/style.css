@@ -1,0 +1,192 @@
+html {
+	height: 100%;
+}
+
+body {
+	font-family: 'Rokkitt', serif;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.heading {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+.dropdown-menu, .dropdown-toggle {
+	font-family: 'Roboto', sans-serif;
+}
+
+#banner {
+	background-image: url("../img/cliffside.jpg");
+	width: 100%;
+	position: relative;
+	min-height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+hr {
+	width: 65%;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+hr.section { 
+	width: 80%;
+	border: 0; 
+	height: 1px; 
+	background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+	background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+	background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+	background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+h3 {
+	font-size: 2.0em;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+}
+
+p {
+	font-size: 1.4em;
+}
+
+section {
+	padding-top: 35px;
+	padding-bottom: 20px;
+}
+
+.portrait_drawing{
+	width: 30%;
+	height: 20%;
+	padding: 1%;
+	display:inline-block;
+}
+
+.landscape_drawing{
+	height: 25%;
+	width: 45%;
+	padding: 1%;
+	display:inline-block;
+}
+
+.game_logo{
+    margin-right: 70px;
+    margin-left: 70px;
+}
+
+.section-heading {
+	font-size: 2.4em;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #f2f6ff;
+}
+
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.instaimg{
+	height: 25%;
+	width: 25%;
+	margin: 1% 3%;
+	display:inline-block;
+}
+
+#landingContent {
+	text-align: center;
+	color: white;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+	padding-top: 20%;
+}
+
+#landingContent h1 {
+	font-weight: 700;
+	font-size: 4.0em;
+}
+
+#about {
+	background-color: #222222;
+}
+
+#gaming {
+	background-color: white;
+	color:black;
+}
+
+#portrait {
+	margin: auto;
+	height: 45%;
+	width: 45%;
+	border-radius: 50%;
+}
+
+#contact {
+	background-color: #322f30;
+	color: #fff;
+	margin: auto;
+	width: 100%;
+	padding-top: 30px;
+}
+
+
+
+footer {
+	background-color: #322f30;
+	padding-bottom: 30px;
+	text-align: center;
+	padding-bottom: 10px;
+}
+
+.footer-social-icons {
+	display: inline-block;
+	text-align: center;
+	padding: 0;
+	vertical-align: middle;
+}
+
+.social-icons a {
+	color: #fff;
+	text-decoration: none;
+	padding: 0;
+}
+
+footer .fa {
+	padding:10px 15px;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition: .5s;
+	background-color: #322f30;
+}
+
+#lol_guide{
+	margin-left: 175px;
+	margin-top: 20px;
+}
+
+.fa-linkedin:hover {
+	background-color: #0073a4;
+}
+.fa-medium:hover {
+	background-color: #3CB371;
+}
+.fa-facebook:hover {
+	background-color: #3d5b99;
+}
+.fa-github:hover {
+	background-color: #525252;
+}
+.fa-spotify:hover {
+	background-color: #84bd00;
+}
