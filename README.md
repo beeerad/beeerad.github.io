@@ -4,5 +4,7 @@ This is just a fun way for me to share a bit about myself while practicing basic
 The making of this site involved:
 
 -HTML, CSS, Javascript
+
 -Bootstrap, jQuery
+
 -Instagram API, Magnific Popup plugin
