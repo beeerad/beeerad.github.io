@@ -3,7 +3,7 @@ html {
 }
 
 body {
-	font-family: 'Rokkitt', serif;
+	font-family: 'Arial', serif;
 	height: 100%;
 	margin: 0;
 	padding: 0;
@@ -11,7 +11,7 @@ body {
 }
 
 .heading {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Helvetica', sans-serif;
 	font-weight: bold;
 }
 
