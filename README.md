@@ -7,4 +7,4 @@ The making of this site involved:
 
 -Bootstrap, jQuery
 
--Instagram API, Magnific Popup plugin
+-Instagram API, Magnific Popup, TypedJS
