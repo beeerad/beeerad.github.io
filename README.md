@@ -6,5 +6,3 @@ The making of this site involved:
 -HTML, CSS, Javascript
 
 -Bootstrap, jQuery
-
--Instagram API, Magnific Popup, TypedJS
